@@ -1,6 +1,6 @@
-# Costur Confecções - Sistema Bem Querida
+# Costur Confecções - Sistema Don Azzuro
 
-Sistema de gerenciamento para a marca Bem Querida da Costur Confecções.
+Sistema de gerenciamento para a marca Don Azzuro da Costur Confecções.
 
 ## Funcionalidades
 - Acompanhamento de produção
